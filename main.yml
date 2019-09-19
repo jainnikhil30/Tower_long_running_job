@@ -1,0 +1,5 @@
+---
+ - hosts: localhost
+   tasks:
+    - pause:
+        minutes: 5
