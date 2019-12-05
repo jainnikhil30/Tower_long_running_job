@@ -2,4 +2,4 @@
  - hosts: localhost
    tasks:
     - pause:
-        minutes: 5
+        minutes: 6
